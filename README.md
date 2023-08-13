@@ -2,8 +2,8 @@
 
 ## Feature
 
-- Support file download
-- Support file upload
+- Support download file
+- Support upload file
 
 ## Run
 
@@ -17,9 +17,9 @@ or
 ./httpserver.py port
 ```
 
-You should specify the **port**, if you do not do, the port number is `8000` by default.
+Should specify the **port** in your environment, if you do not, the port number is `8000` by default.
 
-And then, open browser and enter `ip addr:port`, or `http://localhost:port`, refer to [pyhttpserver.png](./pyhttpserver.png).
+Open browser and enter `ip addr:port`, or `http://localhost:port`, refer to ![pyhttpserver.png](./pyhttpserver.png)
 
 ## License
 
